@@ -1,2 +1,2 @@
-# pratica_programacao_pessoal
+# pratica_programacao
 Programação em várias linguagens
